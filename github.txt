@@ -1,3 +1,4 @@
 999205330987049269974186209testandoooooo
 123
 sera que dah certo
+testar o reset antes do commit
